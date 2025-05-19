@@ -33,7 +33,7 @@ pip install selenium
 
 ## How to Run
 
-1. Ensure [Flightlog.org](https://flightlog.org/) is fast and responsive. This website can be very slow, and in that case, the script will fail. Check again later if flightlorg.org feels slow and unresponsive, check back later before running the script.
+1. Ensure [Flightlog.org](https://flightlog.org/) is fast and responsive. This website can be very slow, and in that case, the script will fail. Check again later if flightlorg.org feels slow and unresponsive.
 2. Write your username and password to both [Flightlog.org](https://flightlog.org/) and [Volandoo](https://volandoo.com/) in the file **username_and_password.py** (do not remove the quotation marks).
 3. Open a terminal change directory to the directory containing the script.
 4. Run the script from the terminal:
